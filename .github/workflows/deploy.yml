@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - trunk
     paths:
       - "assets/**"
       - "_sass/**"
