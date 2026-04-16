@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://starry-decisis.github.io/al-folio/sitemap.xml
+Sitemap: https://starry-decisis.github.io/sitemap.xml
