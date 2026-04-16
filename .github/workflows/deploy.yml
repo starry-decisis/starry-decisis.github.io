@@ -3,9 +3,9 @@ name: Deploy site
 on:
   push:
     branches:
-      - trunk
       - main
       - master
+      - trunk
     paths:
       - "assets/**"
       - "_sass/**"
